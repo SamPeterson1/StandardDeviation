@@ -9,6 +9,7 @@ public class Button {
         this.type = type;
         this.gamepad = gamepad;
     }
+    //test
 
     public ButtonType getType() {
         return this.type;
